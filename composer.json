@@ -6,7 +6,7 @@
         {
             "name": "Douglas",
             "email": "douglasmweb@gmail.com"
-        },
+        }
     ],
     "minimum-stability": "dev",
     "require": {
