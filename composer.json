@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-gnre",
+    "name": "douglasmweb/sped-gnre",
     "description": "API para a emissão de guias GNRE para a SEFAZ",
     "license": "GNU",
     "authors": [
@@ -19,7 +19,7 @@
         "dompdf/dompdf": "0.6.*",
         "phenx/php-font-lib": "0.2.*",
         "zendframework/zend-servicemanager": "~2.0",
-	"zendframework/zend-barcode": "2.3.*@dev",
+	"zendframework/zend-barcode": "2.4.*",
         "satooshi/php-coveralls": "dev-master",
         "smarty/smarty": "~3.1"
     },
