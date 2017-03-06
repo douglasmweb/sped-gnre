@@ -1,16 +1,12 @@
 {
     "name": "douglasmweb/sped-gnre",
-    "description": "API para a emissão de guias GNRE para a SEFAZ",
+    "description": "",
     "license": "GNU",
     "authors": [
         {
-            "name": "Matheus Marabesi",
-            "email": "matheus.marabesi@gmail.com"
+            "name": "Douglas",
+            "email": "douglasmweb@gmail.com"
         },
-        {
-            "name": "Leandro Pereira",
-            "email": "llpereiras@gmail.com"
-        }
     ],
     "minimum-stability": "dev",
     "require": {
