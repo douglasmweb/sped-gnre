@@ -24,6 +24,6 @@
         }
     },
     "require-dev": {
-        "php-coveralls/php-coveralls": "2.1.x-dev"
+        "php-coveralls/php-coveralls": "2.1"
     }
 }
